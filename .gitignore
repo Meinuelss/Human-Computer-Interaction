@@ -1,0 +1,18 @@
+# Dataset e file pesanti
+*.csv
+Data/
+dataset/
+cache/
+
+# File di sistema e cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (si creano mentre lavori)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# File di sistema Mac/Windows
+.DS_Store
+Thumbs.db
